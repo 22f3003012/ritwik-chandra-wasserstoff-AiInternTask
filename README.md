@@ -7,9 +7,10 @@
 Hosted App: [Live on Hugging Face Spaces](https://huggingface.co/spaces/Ritwik1607/DocFindAI)
 
 ---
-## 📸 Screenshots
+| Upload Section | Chat Section | Results Section |
+|----------------|--------------|-----------------|
+| ![Upload](assets/Screenshot%202025-06-13%20053911.jpg) | ![Chat](assets/Screenshot%202025-06-13%20053941.jpg) | ![Results](assets/Screenshot%202025-06-13%20054003.jpg) |
 
-| ![upload](assets/Screenshot 2025-06-13 053911.jpg) | ![chat](assets/Screenshot 2025-06-13 053941.jpg) | ![results](assets/Screenshot 2025-06-13 054003.jpg) |
 
 ---
 
