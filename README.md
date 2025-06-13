@@ -1,4 +1,3 @@
-# ritwik-chandra-wasserstoff-AiInternTask
 
 ---
 
@@ -8,6 +7,11 @@
 **DocFind AI** is an intelligent document processing assistant that allows users to chat with PDFs and images using advanced AI models. It combines OCR and LLM-powered insights to extract, index, and answer user queries over documents with ease and precision.
 
 Hosted App: [Live on Hugging Face Spaces](https://huggingface.co/spaces/Ritwik1607/DocFindAI)
+
+---
+## 📸 Screenshots
+
+| ![upload](assets/Screenshot 2025-06-13 053911.jpg) | ![chat](assets/Screenshot 2025-06-13 053941.jpg) | ![results](assets/Screenshot 2025-06-13 054003.jpg) |
 
 ---
 
@@ -49,13 +53,6 @@ DocFindAI/
 
 ---
 
-## 📸 Screenshots
-
-| Upload Documents | Chat with AI | View Citations |
-|------------------|--------------|----------------|
-| ![upload](assets/upload.png) | ![chat](assets/chat.png) | ![results](assets/citations.png) |
-
----
 
 ## ⚙️ Setup Instructions
 
