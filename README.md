@@ -1,7 +1,5 @@
 
----
 
-```markdown
 # DocFind AI – Intelligent Document Assistant
 
 **DocFind AI** is an intelligent document processing assistant that allows users to chat with PDFs and images using advanced AI models. It combines OCR and LLM-powered insights to extract, index, and answer user queries over documents with ease and precision.
